@@ -17,19 +17,20 @@ SPEED RACER is a script written in BASH (Shell Script) to grab subdomains for a 
   
 ./speedracer.sh <target.com> <results.txt> <p>
 (Ex: ./speedracer.sh epa.gov epa-results.txt)
- 
-<b>Note: **!MUST RUN SPEED RACER AS $ROOT!**</b><p>
 
  <h1>Installation Instructions</h1>
->>cd /opt<p><p>
->>git clone https://github.com/n3onhacks/speedracer.git<p>
->>chmod 777 -R speedracer<p>
->>cd speedracer<p>
->>./speedracer.sh <target.com> <results.txt><p>
+>>git clone https://github.com/n3onhacks/speedracer.git<br>
+>>chmod 777 -R speedracer<br>
+>>cd speedracer<br>
+>>./speedracer.sh <target.com> <results.txt><br>
 
 <h1>Version Control</h1>
-  
  <h3>Version 1.0 release</h3>
+-Using Mother Forker (beta) for encryption<br>
+-Can run as any user</br>
+-Added main.sh, speedracer_.sh<p>
+ 
+ <h3>Version 0.0.1 release</h3>
 -Initial release of SPEED RACER<p>
  
 
