@@ -25,6 +25,10 @@ SPEED RACER is a script written in BASH (Shell Script) to grab subdomains for a 
 >>./speedracer.sh <target.com> <results.txt><br>
 
 <h1>Version Control</h1>
+
+ <h3>Version 2.0 release</h3>
+-New folder/file update for easy subm3rge tool use
+
  <h3>Version 1.0 release</h3>
 -Using Mother Forker (beta) for encryption<br>
 -Can run as any user</br>
