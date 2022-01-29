@@ -2,7 +2,7 @@
 
 <b>Usage: ./speedracer.sh target.com results.txt</b>
 
-<h3>SPEED RACER v.1.0</h3>
+<h3>SPEED RACER v.2.0</h3>
 <img src="https://raw.githubusercontent.com/n3onhacks/speedracer/main/speedracer.jpg" alt="SPEED RACER logo">
 
 **!FOLLOW INSTALLATION INSTRUCTIONS BELOW!**<p>
